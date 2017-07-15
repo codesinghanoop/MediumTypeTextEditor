@@ -1,0 +1,14 @@
+{
+  "app.css": "http://127.0.0.1:8080/packs/app.css",
+  "app.js": "http://127.0.0.1:8080/packs/app.js",
+  "application.css": "http://127.0.0.1:8080/packs/application.css",
+  "application.js": "http://127.0.0.1:8080/packs/application.js",
+  "hello_react.js": "http://127.0.0.1:8080/packs/hello_react.js",
+  "src\\Highlightable.js": "http://127.0.0.1:8080/packs/src\\Highlightable.js",
+  "src\\Range.js": "http://127.0.0.1:8080/packs/src\\Range.js",
+  "src\\helpers.js": "http://127.0.0.1:8080/packs/src\\helpers.js",
+  "src\\index.js": "http://127.0.0.1:8080/packs/src\\index.js",
+  "src\\nodes\\EmojiNode.js": "http://127.0.0.1:8080/packs/src\\nodes\\EmojiNode.js",
+  "src\\nodes\\Node.js": "http://127.0.0.1:8080/packs/src\\nodes\\Node.js",
+  "src\\nodes\\UrlNode.js": "http://127.0.0.1:8080/packs/src\\nodes\\UrlNode.js"
+}
